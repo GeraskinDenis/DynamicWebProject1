@@ -12,5 +12,6 @@
 	<h2><a href="http://localhost:8080/DynamicWebProject1/pages/example2.jsp">Example 2</a></h2>
 	<h2><a href="http://localhost:8080/DynamicWebProject1/pages/example3.jsp">Example 3</a></h2>
 	<h2><a href="http://localhost:8080/DynamicWebProject1/pages/example4.jsp">Example 4</a></h2>
+	<h2><a href="http://localhost:8080/DynamicWebProject1/pages/example4.jsp">Example 5</a></h2>
 </body>
 </html>
